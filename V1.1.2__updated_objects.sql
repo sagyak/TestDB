@@ -2,4 +2,4 @@ USE SCHEMA DEMO_SCHEMA;
 
 ALTER TABLE HELLO_WORLD ADD COLUMN ID NUMBER;
 
-insert into HELLO_WORD (ID,FIRST_NAME, LAST_NAME) values (1,’Sagar’,’Kulkarni’);
+insert into HELLO_WORLD (ID,FIRST_NAME,LAST_NAME) values (1,'Sagar','Kulkarni');
